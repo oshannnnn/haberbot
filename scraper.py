@@ -2,7 +2,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-NEWS_URL = "https://neu.edu.tr/category/haberler/"
+NEWS_URL = "NEWS_URL = "https://iletisim.neu.edu.tr/category/haberler/"
+"
 
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
