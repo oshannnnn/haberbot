@@ -1,5 +1,7 @@
 import requests
 
+print("YENI KOD CALISIYOR")
+
 NEWS_URL = "https://neu.edu.tr/category/haberler/"
 
 print("YDÜ sitesi test ediliyor...")
